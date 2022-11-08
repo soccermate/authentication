@@ -18,7 +18,7 @@ import java.util.concurrent.CompletableFuture;
 @EnableAsync
 public class MailSender
 {
-    private static final String SENDER = "harryjung6810@gmail.com";
+    private static final String SENDER = "SUPPORT@soccer-mate-group.com";
 
     private static final String SIGNUP_SUBJECT = "회원가입 인증번호 요청";
     private static final String FIND_ID_SUBJECT = "아이디 찾기 요청";
